@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "dp-image-grid": [
+        "dist/dp-image-grid"
+      ],
+      "dp-image-grid/*": [
+        "dist/dp-image-grid/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
