@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "lib:build": "ng build dp-image-grid",
-    "lib:pack": "npm pack"
+    "lib:pack": "cd dist/dp-image-grid && npm pack"
   },
   "private": true,
   "dependencies": {
