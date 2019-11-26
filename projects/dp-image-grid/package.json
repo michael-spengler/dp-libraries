@@ -1,12 +1,13 @@
 {
   "name": "@michael-spengler/dp-image-grid",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michael-spengler/dp-libraries"
+    "url": "https://github.com/michael-spengler/dp-libraries",
+    "directory": "projects/dp-image-grid"
   }
 }
